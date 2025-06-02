@@ -3,7 +3,7 @@
   <head>
   </head>
   <h1> Rezfi </h1>
-    <img width ="200px" src ="readstreamings/images/logo.png">
+    <img width ="200px" src ="rezfi/images/logo.png">
     <h2>Objetivo principal</h2>
     Centralizar conteúdo de streamings e canais para que o público possa fazer avaliações, comentários, e, resenhas de séries,filmes e vídeos dos canais e até mesmo episódios específicos.
 
