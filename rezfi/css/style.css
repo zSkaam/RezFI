@@ -103,7 +103,7 @@ footer {
 
   .detalhes {
     display: flex;
-    height: 9.3em;
+    height: 8.5em;
     background-color: white;
     padding: 2em;
     position: relative;
@@ -131,7 +131,7 @@ footer {
   .rede-social {
     .icones i {
       font-size: 1.9em;
-      margin-right: 0.8em;
+      margin-right: 0.7em;
 
       &:hover {
         color: rgb(228, 162, 39);
@@ -141,7 +141,7 @@ footer {
   }
 
   .faixa {
-    height: 3rem;
+    height: 1.2rem;
     background-color: rgb(228, 162, 39);
   }
 }
